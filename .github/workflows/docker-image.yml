@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: respectwo2/nodejs-github-action:${{ env.CURRENT_TIME }}
+        tags: parksungwook/nodejs-github-action:${{ env.CURRENT_TIME }}
